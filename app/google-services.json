@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349475896966",
+    "firebase_url": "https://realtimecheck-a45d7.firebaseio.com",
+    "project_id": "realtimecheck-a45d7",
+    "storage_bucket": "realtimecheck-a45d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349475896966:android:107d7b87cc134f3b459b07",
+        "android_client_info": {
+          "package_name": "com.sayantanbanerjee.realtimedatabasecheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349475896966-488ao3riu3rbktlfa9v1b0jamf0m2410.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayantanbanerjee.realtimedatabasecheck",
+            "certificate_hash": "671419aca386c2468c7e3073473e980c7cda1c9e"
+          }
+        },
+        {
+          "client_id": "349475896966-k7tdcolerfh9llol7vk3ekupemee73c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyzNTnkYG6iEqBQAAQ4w0EfHhqodTPKzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349475896966-k7tdcolerfh9llol7vk3ekupemee73c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
